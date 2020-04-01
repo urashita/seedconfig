@@ -1,5 +1,4 @@
-# seedconfig
-seed.iso for Amazon Linux 2
+# seed.iso for Amazon Linux 2
 
 Please refer to
 https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/amazon-linux-2-virtual-machine.html
